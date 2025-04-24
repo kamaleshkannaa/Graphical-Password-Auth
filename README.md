@@ -12,13 +12,13 @@ To install this project, follow these steps:<br>
 <p>1. Clone the repository to your local machine.</p>
 
 ```bash
-git clone https://github.com/prathamesh-a/graphical-password-authentication.git
+git clone https://github.com/kamaleshkannaa/Graphical-Password-Auth.git
 ```
 
 <p>2. Navigate to the root folder of the project.</p>
 
 ```bash
-git clone https://github.com/prathamesh-a/graphical-password-authentication.git
+git clone https://github.com/kamaleshkannaa/Graphical-Password-Auth.git
 ```
 
 <p>3. <a href="https://github.com/kamaleshkannaa/Graphical-Password-Auth/blob/main/server/README.md#installation">Installation of Server</a></p>
